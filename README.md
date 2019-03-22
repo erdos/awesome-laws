@@ -1,6 +1,6 @@
 # Awesome Laws
 
-List of funny principles named after people.
+List of funny principles named after people ([eponymous](https://en.wikipedia.org/wiki/Eponym) laws).
 
 ### Amara's law
 
