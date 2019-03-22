@@ -141,3 +141,5 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 ## Sources
 
 - [Rational Wiki](https://rationalwiki.org/wiki/Eponymous_laws)
+- [Wikipedia's List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+
