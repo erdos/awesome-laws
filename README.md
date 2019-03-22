@@ -54,6 +54,10 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 
 > As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one.
 
+### Gumperson's Law
+
+> The probability of a given event occurring is inversely proportional to its desirability.
+
 ### [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 
 > It always takes longer than you expect, even when you take into account Hofstadter's Law.
