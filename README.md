@@ -86,6 +86,10 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 
 > Any list should not contain more than 7±2 items.
 
+### [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
+
+> The power of computers per unit cost doubles every 24 month.
+
 ### [Muphry's law](https://en.wikipedia.org/wiki/Muphry%27s_law)
 
 > If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written
@@ -114,3 +118,10 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 
 > Any technology that surpasses 50% penetration will never double again 
 
+### [Wirth's Law](https://en.wikipedia.org/wiki/Wirth%27s_law)
+
+> Software gets slower faster than hardware gets faster.
+
+### [Zawinski’s Law](http://www.catb.org/~esr/jargon/html/Z/Zawinskis-Law.html)
+
+> Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
