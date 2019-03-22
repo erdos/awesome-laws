@@ -114,6 +114,14 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 
 > In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake.
 
+### [Sturgeon’s Law](https://en.wikipedia.org/wiki/Sturgeon's_law)
+
+> Ninety percent of everything is crap
+
+### [Tessler’s Law](https://lawsofux.com/teslers-law)
+
+> Every application must have an inherent amount of irreducible complexity. The only question is who will have to deal with it.
+
 ### [Norwig's Law](http://norvig.com/norvigs-law.html)
 
 > Any technology that surpasses 50% penetration will never double again 
