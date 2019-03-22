@@ -133,3 +133,7 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 ### [Zawinski’s Law](http://www.catb.org/~esr/jargon/html/Z/Zawinskis-Law.html)
 
 > Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
+
+## Sources
+
+- [Rational Wiki](https://rationalwiki.org/wiki/Eponymous_laws)
