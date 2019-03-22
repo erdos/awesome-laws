@@ -34,13 +34,9 @@ List of funny principles named after people.
 
 > The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer.
 
-### [Constantine's Law](http://www.principles-wiki.net/principles:constantine_s_law)
+### [Eagleson's law](https://ask.metafilter.com/200910/Who-is-Eagleson-and-where-did-Eaglesons-law-originate)
 
-> A structure is stable if cohesion is strong and coupling is low.
-
-### [Curly's Law](http://www.principles-wiki.net/principles:single_responsibility_principle?redirect=1)
-
-> There should never be more than one reason to change a certain module.
+> Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.
 
 ### [Finagle's law](https://en.wikipedia.org/wiki/Finagle%27s_law)
 
@@ -57,6 +53,10 @@ List of funny principles named after people.
 ### [Godwin's law](https://en.wikipedia.org/wiki/Godwin%27s_law)
 
 > As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one.
+
+### [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
+
+> It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
 ### [Joy's law](https://en.wikipedia.org/wiki/Joy%27s_law_(management))
 
@@ -98,11 +98,19 @@ List of funny principles named after people.
 
 > Work expands so as to fill the time available for its completion.
 
+### [Parkinson's Law of Triviality]()
+
+> The time spent on any agenda item will be in inverse proportion to the sum of money involved.
+
 ### [Postel's Law](http://www.principles-wiki.net/principles:postel_s_law)
 
 > Be conservative in what you do, be liberal in what you accept from others.
 
+### [Sayre's Law](https://en.wikipedia.org/wiki/Sayre%27s_law)
 
+> In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake.
 
+### [Norwig's Law](http://norvig.com/norvigs-law.html)
 
+> Any technology that surpasses 50% penetration will never double again 
 
