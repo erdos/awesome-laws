@@ -58,6 +58,10 @@ List of funny principles named after people ([eponymous](https://en.wikipedia.or
 
 > The probability of a given event occurring is inversely proportional to its desirability.
 
+### [Hyrum's law](https://www.hyrumslaw.com/)
+
+> With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+
 ### [Hofstadter's Law](https://en.wikipedia.org/wiki/Hofstadter%27s_law)
 
 > It always takes longer than you expect, even when you take into account Hofstadter's Law.
